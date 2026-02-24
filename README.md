@@ -47,7 +47,7 @@ a.   KVL:
 
 
 <img width="876" height="504" alt="Screenshot 2026-02-24 085203" src="https://github.com/user-attachments/assets/05b31926-5c8c-40a8-8d28-4b57668211f2" />
-<img width="876" height="504" alt="Screenshot 2026-02-24 085203" src="https://github.com/user-attachments/assets/05b31926-5c8c-40a8-8d28-4b57668211f2" />
+
 
 
 
@@ -56,7 +56,9 @@ a.   KVL:
 b.  KCL:
 
 
- <img width="917" height="603" alt="Screenshot 2025-11-20 064604" src="https://github.com/user-attachments/assets/156f592e-48c1-45a5-bd01-5f662b32b71c" />
+<img width="900" height="503" alt="Screenshot 2026-02-24 090955" src="https://github.com/user-attachments/assets/c9ab3e5d-c496-42f3-9df7-ed0d73094acb" />
+
+
 
 
 Calculation:
